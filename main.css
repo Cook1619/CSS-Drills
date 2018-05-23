@@ -1,0 +1,85 @@
+body{
+    font-family: 'Sunflower', sans-serif;
+    background-color: lightgrey;
+}
+.readme-wrapper{
+    text-align: center;
+}
+a {
+  text-decoration: none;
+  color: orange;
+}
+.boxes{
+    display: block;
+    margin: 10px;
+    padding: 17px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+a:hover{
+    cursor: pointer;
+    font-weight: bold;
+    color: green;
+}
+span {
+    color: palevioletred;
+    font-weight: 500;
+}
+#box1 {
+    background-color: darkslategrey;
+}
+#box2 {
+    background-color: slategray;
+}
+#box3 {
+    background-color: blanchedalmond;
+}
+#box4 {
+    background-color: aliceblue;
+}
+.box-box{
+    width: 50px;
+    height: 50px;
+    background-color: cadetblue;
+}
+h2 {
+    position: relative;
+    bottom: 50px;
+    left: 70px;
+}
+h1 {
+    color:#003366;
+}
+.fav {
+    color:#008080;
+}
+.fav1 {
+    color: #94aea3;
+}
+#show1 {
+    color :red;
+}
+#show2 {
+    color: blue;
+}
+#show3 {
+    color: yellow;
+}
+#show4 {
+    color: purple;
+}
+#show5 {
+    color: grey;
+}
+div > ul {
+    border: 2px solid red;
+}
+.friends {
+    color: #748c08;
+}
+.places {
+    color: #00ff9f;
+}
+.rest {
+    color: #9a7aa0;
+}
